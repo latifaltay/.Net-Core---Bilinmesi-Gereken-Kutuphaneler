@@ -1,0 +1,15 @@
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\bin\Debug\net7.0\Solid.App.exe
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\bin\Debug\net7.0\Solid.App.deps.json
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\bin\Debug\net7.0\Solid.App.runtimeconfig.json
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\bin\Debug\net7.0\Solid.App.dll
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\bin\Debug\net7.0\Solid.App.pdb
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\obj\Debug\net7.0\Solid.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\obj\Debug\net7.0\Solid.App.AssemblyInfoInputs.cache
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\obj\Debug\net7.0\Solid.App.AssemblyInfo.cs
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\obj\Debug\net7.0\Solid.App.csproj.CoreCompileInputs.cache
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\obj\Debug\net7.0\Solid.App.sourcelink.json
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\obj\Debug\net7.0\Solid.App.dll
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\obj\Debug\net7.0\refint\Solid.App.dll
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\obj\Debug\net7.0\Solid.App.pdb
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\obj\Debug\net7.0\Solid.App.genruntimeconfig.cache
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\BilinmesiGerekenKutuphaneler\Solid.App\obj\Debug\net7.0\ref\Solid.App.dll
