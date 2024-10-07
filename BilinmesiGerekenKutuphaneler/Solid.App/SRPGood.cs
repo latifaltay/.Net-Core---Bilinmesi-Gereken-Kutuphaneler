@@ -4,20 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solid.App.SRP
+namespace Solid.App.SRP.Good
 {
+
     public class Product
     {
         public int Id { get; set; }
         public string Name { get; set; }
 
-        private static List<Product> ProductList = new List<Product>();
+    }
 
 
-        public List<Product> GetProducts => ProductList;
+    public class ProductRepository 
+    {
 
-
-        public Product()
+        public ProductRepository()
         {
             ProductList = new()
             {
@@ -29,6 +30,11 @@ namespace Solid.App.SRP
 
             };
         }
+
+
+        private static List<Product> ProductList = new List<Product>();
+
+        public List<Product> GetProducts => ProductList;
 
         public void SaveOrUpdate(Product product)
         {
@@ -57,15 +63,19 @@ namespace Solid.App.SRP
 
             ProductList.Remove(hasProduct);
         }
+    }
 
 
-        public void WriteToConsole() 
+    public class ProductPresenter
+    {
+        public void WriteToConsole(List<Product> ProductList)
         {
-            ProductList.ForEach(x => 
+            ProductList.ForEach(x =>
             {
                 Console.WriteLine($"{x.Id} - {x.Name}");
             });
         }
-
     }
+
+
 }
