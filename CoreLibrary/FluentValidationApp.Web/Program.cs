@@ -14,6 +14,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddValidatorsFromAssemblyContaining<Program>();
 
+builder.Services.AddAutoMapper(typeof(Program));
+
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 

@@ -260,3 +260,5 @@ C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentVali
 C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
