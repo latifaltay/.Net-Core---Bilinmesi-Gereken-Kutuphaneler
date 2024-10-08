@@ -14,9 +14,10 @@ namespace FluentValidationApp.Web.FluentValidators
 
             RuleFor(x => x.BirthDay).NotEmpty().WithMessage(NotEmptyMessage).Must(x =>
             {
-                return DateTime.Now.AddDays(-18) >= x;
-            }).WithMessage("Yaşınız 18 yaşından büyük olmalı");
+                return DateTime.Now.AddYears(-18) >= x;
+            }).WithMessage("Yaşınız 18'den büyük olmalı");
 
+            RuleFor(x => x.Gender).IsInEnum().WithMessage("{PropertyName} alanı erkek = 1 kadın = 2 olmalıdır ");
 
             RuleForEach(x => x.Addresses).SetValidator(new AddressValidator());
 

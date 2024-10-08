@@ -1,4 +1,8 @@
-﻿namespace FluentValidationApp.Web.Models
+﻿using FluentValidationApp.Web.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.OpenApi;
+using Microsoft.AspNetCore.Http.HttpResults;
+namespace FluentValidationApp.Web.Models
 {
     public class Customer
     {
@@ -9,6 +13,8 @@
         public DateTime? BirthDay { get; set; }
 
         
-        public IList<Address> Addresses { get; set; }
+        public IList<Address>? Addresses { get; set; }
+
+        public Gender Gender { get; set; }
     }
 }

@@ -53,7 +53,7 @@ namespace FluentValidationApp.Web.Controllers
         {
             var result = _validator.Validate(customer);
 
-            if (result.IsValid) 
+            if (result.IsValid)
             {
                 _context.Add(customer);
                 await _context.SaveChangesAsync();

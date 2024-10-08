@@ -255,3 +255,8 @@ C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentVali
 C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\obj\Debug\net8.0\FluentValidationApp.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ELEYDEV\Desktop\Bilinmesi Gereken Kütüphaneler\CoreLibrary\FluentValidationApp.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
