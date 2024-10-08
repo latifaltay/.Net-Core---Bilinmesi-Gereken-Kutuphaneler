@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RateLimitAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e28f24a5c829594bc2a6cad55c0808c558aa1e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bc796a6956ed3e198a964d19368ee4386212716")]
 [assembly: System.Reflection.AssemblyProductAttribute("RateLimitAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RateLimitAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
